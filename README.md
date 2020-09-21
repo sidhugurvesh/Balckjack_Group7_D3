@@ -1,4 +1,4 @@
-# Blackjack_Group7_D3
+# Blackjack_Game
 Blackjack game built in java.
 Game details-
 shuffled cards upto 6 decks.
